@@ -24,5 +24,5 @@ Great for tagging photos, security checks, or organizing image collections.
 ##  Installation
 1. Download this project:
    ```bash
-   git clone https://github.com/Asmitha cub/Face-Recognition.git
+   git clone https://github.com/Asmitha-cub/Face-Recognition.git
    cd Face-Recognition
